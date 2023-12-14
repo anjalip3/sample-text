@@ -1,2 +1,2 @@
 # sample-text
-text repo
+text repo skill
